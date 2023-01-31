@@ -12,16 +12,14 @@
 
 
 ```python
-name = "Krishna Sarathi Ghosh";
+name = "Krishna Sarathi Ghosh"
 
-Developer dev = new Developer(name);
+dev = newDeveloper(name)
 
-while(dev.isCoding())
-{
-  dev.dontlistenToMusic();
-  dev.openStackOverFlow();
-  dev.drinkWater();
-}
+while dev.isCoding():
+  dev.dontlistenToMusic()
+  dev.openStackOverFlow()
+  dev.drinkWater()
 ```
 
 
