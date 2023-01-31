@@ -11,7 +11,7 @@
 </p>
 
 
-<h3>**About Me**</h3>
+<h3 style="font-family: Helvetica"; "font-weight: 800px">About Me</h3>
 - 🚀 I’m currently on a journey to get into **IIT or AIIMS**<br>
 - 🌱 I’m currently learning **Full Stack Web Development** 🤓<br>
 - 🤝 I’m looking for help with **Python, JS and Styling Websites**<br>
