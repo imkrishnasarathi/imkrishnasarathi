@@ -10,22 +10,16 @@
 
 </p>
 
-<details>
+
   <summary>About Me </summary>
+- 🚀 I’m currently on a journey to get into **IIT or AIIMS**
+- 🌱 I’m currently learning **Full Stack Web Development** 🤓
+- 🤝 I’m looking for help with **Python, JS and Styling Websites**
+- :octocat: You can view my projects at - https://github.com/KrishnaTheCoder756
+- 💬 Ask me about **Web Development, Python and Git!**
+- 📧 Reach me out at **krishnasarathishem@gmail.com**
 
-  - 🚀 I’m currently on a journey to get into **IIT or AIIMS**
 
-  - 🌱 I’m currently learning **Full Stack Web Development** 🤓
-
-  - 🤝 I’m looking for help with **Python, JS and Styling Websites**
-  
-  - :octocat: You can view my projects at - https://github.com/KrishnaTheCoder756
-
-  - 💬 Ask me about **Web Development, Python and Git!**
-
-  - 📧 Reach me out at **krishnasarathishem@gmail.com**
-
-</details>
 
 
 
