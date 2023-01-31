@@ -32,9 +32,6 @@ while dev.isCoding():
 - 📧 Reach me out at krishnasarathishem@gmail.com
 
 
-
-
-
 <table align="center">
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=q4mcCsX56nU&t"><img width="140px" src="https://i.ytimg.com/vi/q4mcCsX56nU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bRxhzt3UQlg">ASMR Programming: Rock Paper Scissors Game in Python <br/></td></tr>
@@ -45,7 +42,7 @@ while dev.isCoding():
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
-<div align='center' width=100%> 
+<div align='center'> 
   Feel free to reach me out at:
   <br>
   <p align="center">
