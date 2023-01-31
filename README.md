@@ -12,13 +12,14 @@
 
 
 <h3 style="font-family: Helvetica"; "font-weight: 800">About Me</h3>
+<details>
 - 🚀 I’m currently on a journey to get into **IIT or AIIMS**<br>
 - 🌱 I’m currently learning **Full Stack Web Development** 🤓<br>
 - 🤝 I’m looking for help with **Python, JS and Styling Websites**<br>
 - :octocat: You can view my projects at - https://github.com/KrishnaTheCoder756<br>
 - 💬 Ask me about **Web Development, Python and Git!**<br>
 - 📧 Reach me out at **krishnasarathishem@gmail.com**
-
+</details>
 
 
 
