@@ -10,6 +10,8 @@
 
 </div>
 
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=codeskae" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="40" alt="pradumna_saraf"/></a></p>
+
 
 ```python
 name = "Krishna Sarathi Ghosh"
@@ -29,7 +31,7 @@ while dev.isCoding():
 - 🌱 I’m currently learning Full Stack Web Development 🤓<br>
 - 🤝 I’m looking for help with Python, JS and Styling Websites<br>
 - :octocat: You can view my projects at - https://github.com/KrishnaTheCoder756<br>
-- 💬 Ask me about **Web Development, Python and Git!<br>
+- 💬 Ask me about **Web Development, Python and Git!**<br>
 - 📧 Reach me out at krishnasarathishem@gmail.com
 
 
