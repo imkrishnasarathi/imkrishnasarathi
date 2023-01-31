@@ -10,9 +10,6 @@
 
 </div>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=codeskae" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="40" alt="pradumna_saraf"/></a></p>
-
-
 ```python
 name = "Krishna Sarathi Ghosh"
 
@@ -53,7 +50,7 @@ while dev.isCoding():
   <br>
   <p align="center">
   <a href="https://dev.to/krishnasarathi"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
-  <a href="https://twitter.com/CodesKae"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=codeskae"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:krishnasarathishem@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 </div>
