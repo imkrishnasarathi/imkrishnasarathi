@@ -2,13 +2,13 @@
   <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1672633403/1500x500">
 </p>
 
-<p>
+<div align="center">
 
   Hey There 👋, I am **Krishna Sarathi Ghosh,** an enthusiastic and ambitious Python and Full-Stack Web Developer.
   I mainly specialize in Python, Git, CSS and I am currently learning  Full-Stack Web Development! 
   I am starting Open Source soon!
 
-</p>
+</div>
 
 
 <h3 style="font-family: Helvetica"; "font-weight: 800">About Me</h3>
