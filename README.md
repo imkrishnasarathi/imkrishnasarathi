@@ -45,7 +45,7 @@ while dev.isCoding():
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
-<div align='center' style="width:100%;"> 
+<div align='center' width=100%> 
   Feel free to reach me out at:
   <br>
   <p align="center">
