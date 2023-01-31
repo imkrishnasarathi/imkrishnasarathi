@@ -35,7 +35,7 @@ while dev.isCoding():
 
 
 
-<table>
+<table align="center">
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=q4mcCsX56nU&t"><img width="140px" src="https://i.ytimg.com/vi/q4mcCsX56nU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bRxhzt3UQlg">ASMR Programming: Rock Paper Scissors Game in Python <br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=E3SGdoHgfk0"><img width="140px" src="https://i.ytimg.com/vi/E3SGdoHgfk0/mqdefault.jpg"></a></td>
