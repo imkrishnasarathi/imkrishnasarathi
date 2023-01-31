@@ -11,6 +11,20 @@
 </div>
 
 
+```python
+name = "Krishna Sarathi Ghosh";
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.dontlistenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
+
+
 <h3 style="font-family: Helvetica"; "font-weight: 800">About Me</h3>
 
 - 🚀 I’m currently on a journey to get into IIT or AIIMS<br>
