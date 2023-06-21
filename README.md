@@ -5,7 +5,7 @@
 <div align="center">
 
   Hey There 👋, I am **Krishna Sarathi Ghosh,** an enthusiastic and ambitious Python and Full-Stack Web Developer.
-  I mainly specialize in Python, Git, CSS and I am currently learning  Full-Stack Web Development! 
+  I mainly specialize in Python, Git, Web Development and I am currently learning  Full-Stack Web Development! 
   I am starting Open Source soon!
 
 </div>
