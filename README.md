@@ -1,5 +1,5 @@
 <p>
-  <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1685780478/1500x500">
+  <img src="modelling course.gif">
 </p>
 
 <div align="center">
