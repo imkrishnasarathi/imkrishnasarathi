@@ -7,13 +7,12 @@ I mainly specialize in Python, Git, Frontend Web Dev and currently I'm learning 
 
 
 ```js
-const name = "Krishna Sarathi Ghosh"
+const name = "Krishna Sarathi Ghosh";
+const dev = newDeveloper(name);
 
-const dev = newDeveloper(name)
-
-while dev.isCoding():
-  dev.dontlistenToMusic()
-  dev.drinkWater()
+while (dev.isCoding()):
+  dev.dontlistenToMusic();
+  dev.drinkWater();
 ```
 
 
