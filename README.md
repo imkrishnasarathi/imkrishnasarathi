@@ -1,5 +1,5 @@
 <p>
-  <img src="modelling course.gif">
+  <img src="pic.gif">
 </p>
 
 <div align="center">
