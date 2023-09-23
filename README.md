@@ -16,15 +16,15 @@ while (dev.isCoding()):
 ```
 
 
-<h3 style="font-family: Helvetica"; "font-weight: 800">About Me</h3>
 
-- 🚀 I’m currently on a journey to get into IIT or AIIMS<br>
-- 🌱 I’m currently learning Full Stack Web Development 🤓<br>
-- 🤝 I’m looking for help with Python, JS and Styling Websites<br>
-- :octocat: You can view my projects at - https://github.com/imkrishnasarathi<br>
-- 💬 Ask me about **Web Development, Python and Git!**<br>
-- 📧 Reach me out at krishnasarathishem@gmail.com
-
+<details>
+  <summary>About Me</summary>
+  - 🚀 I’m currently on a journey to get better at programming as well as build my career<br>
+  - 🌱 I’m currently learning **Full Stack Web Development**<br>
+  - :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
+  - 💬 Ask me about **Web Development, Python and Git!**<br>
+  - 📧 Reach me out at krishnasarathishem@gmail.com
+</details>
 
 <div align='center'> 
   Feel free to reach me out at:
