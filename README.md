@@ -32,6 +32,9 @@ while (dev.isCoding()){
   <img style="height:200px;" width="48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&layout=compact&theme=onedark" />
 </p>
 
+<!--START_SECTION:activity-->
+
+
 <div align='center'> 
   Feel free to reach me out at:
   <br>
