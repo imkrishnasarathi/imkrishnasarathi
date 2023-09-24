@@ -28,8 +28,8 @@ while (dev.isCoding()){
 </details>
 
 <p align="center">
-  <img style="height:200px;" align="center" src="https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&show_icons=true&theme=onedark&bg_color=00000000" />
-  <img style="height:200px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&layout=compact&theme=onedark" />
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&show_icons=true&theme=onedark&bg_color=00000000" />
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&layout=compact&theme=onedark" />
 </p>
 
 <!--START_SECTION:activity-->
