@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8200](https://github.com/EddieHubCommunity/support/issues/8200) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗ Opened issue [#1](https://github.com/imkrishnasarathi/PleasantWeb-Buildspace-Extension/issues/1) in [imkrishnasarathi/PleasantWeb-Buildspace-Extension](https://github.com/imkrishnasarathi/PleasantWeb-Buildspace-Extension)
 <!--END_SECTION:activity-->
 
 
