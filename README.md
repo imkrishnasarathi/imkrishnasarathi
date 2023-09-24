@@ -10,9 +10,10 @@ I mainly specialize in Python, Git, Frontend Web Dev and currently I'm learning 
 const name = "Krishna Sarathi Ghosh";
 const dev = newDeveloper(name);
 
-while (dev.isCoding()):
+while (dev.isCoding()){
   dev.dontlistenToMusic();
   dev.drinkWater();
+}
 ```
 
 
