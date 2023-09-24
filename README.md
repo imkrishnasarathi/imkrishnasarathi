@@ -27,6 +27,11 @@ while (dev.isCoding()){
   - 📧 Reach me out at krishnasarathishem@gmail.com
 </details>
 
+<p align="center">
+  <img style="height:200px;" width="48% align="center" src="https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&show_icons=true&theme=onedark&bg_color=00000000" />
+  <img style="height:200px;" width="48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&layout=compact" />
+</p>
+
 <div align='center'> 
   Feel free to reach me out at:
   <br>
