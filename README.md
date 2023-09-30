@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#26](https://github.com/bhaavvya/Quiz/pull/26) in [bhaavvya/Quiz](https://github.com/bhaavvya/Quiz)
+1. 🗣 Commented on [#24](https://github.com/bhaavvya/Quiz/issues/24#issuecomment-1741767913) in [bhaavvya/Quiz](https://github.com/bhaavvya/Quiz)
 <!--END_SECTION:activity-->
 
 
