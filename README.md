@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/bhaavvya/Quiz/issues/25#issuecomment-1741978332) in [bhaavvya/Quiz](https://github.com/bhaavvya/Quiz)
+1. 🗣 Commented on [#25](https://github.com/bhaavvya/Quiz/issues/25#issuecomment-1741979091) in [bhaavvya/Quiz](https://github.com/bhaavvya/Quiz)
 <!--END_SECTION:activity-->
 
 
