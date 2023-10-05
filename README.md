@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/p7uverma/bard-chatbot/pull/3) in [p7uverma/bard-chatbot](https://github.com/p7uverma/bard-chatbot)
+1. 🗣 Commented on [#21](https://github.com/xkrishguptaa/bot-dc-htm/issues/21#issuecomment-1748052174) in [xkrishguptaa/bot-dc-htm](https://github.com/xkrishguptaa/bot-dc-htm)
 <!--END_SECTION:activity-->
 
 
