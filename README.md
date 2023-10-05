@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/xkrishguptaa/bot-dc-htm/pull/30) in [xkrishguptaa/bot-dc-htm](https://github.com/xkrishguptaa/bot-dc-htm)
+1. 💪 Opened PR [#35](https://github.com/xkrishguptaa/bot-dc-htm/pull/35) in [xkrishguptaa/bot-dc-htm](https://github.com/xkrishguptaa/bot-dc-htm)
 <!--END_SECTION:activity-->
 
 
