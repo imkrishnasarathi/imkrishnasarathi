@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25174](https://github.com/mattermost/mattermost/issues/25174#issuecomment-1787234990) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+1. 🗣 Commented on [#104](https://github.com/mattermost/mattermost-plugin-confluence/pull/104#issuecomment-1793614588) in [mattermost/mattermost-plugin-confluence](https://github.com/mattermost/mattermost-plugin-confluence)
 <!--END_SECTION:activity-->
 
 
