@@ -33,7 +33,7 @@ while (dev.isCoding()){
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/imkrishnasarathi/PleasantWeb/issues/3) in [imkrishnasarathi/PleasantWeb](https://github.com/imkrishnasarathi/PleasantWeb)
+1. ❗ Opened issue [#17](https://github.com/imkrishnasarathi/PleasantWeb/issues/17) in [imkrishnasarathi/PleasantWeb](https://github.com/imkrishnasarathi/PleasantWeb)
 <!--END_SECTION:activity-->
 
 
