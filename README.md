@@ -29,7 +29,6 @@ while (dev.isCoding()){
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&show_icons=true&theme=onedark&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=onedark" />
 </p>
 
 <!--START_SECTION:activity-->
