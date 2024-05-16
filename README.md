@@ -1,5 +1,5 @@
 <p>
-  <img src="pic.gif">
+  <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1715529127/1500x500">
 </p>
 
 Hey There 👋, I am **Krishna Sarathi Ghosh,** an *enthusiastic and ambitious* Python and Full-Stack Web Developer.
