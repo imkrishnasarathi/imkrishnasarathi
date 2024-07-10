@@ -27,9 +27,6 @@ while (dev.isCoding()){
   - 📧 Reach me out at krishnasarathishem@gmail.com
 </details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&show_icons=true&theme=onedark&bg_color=00000000" />
-</p>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/imkrishnasarathi/PleasantWeb/issues/13#issuecomment-1998971371) in [imkrishnasarathi/PleasantWeb](https://github.com/imkrishnasarathi/PleasantWeb)
