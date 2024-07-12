@@ -49,6 +49,12 @@ while (dev.isCoding()){
 
 <rect width="100%" height="100%" fill="white" />
 
+## Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <div align='center'> 
   Feel free to reach me out at:
   <br>
