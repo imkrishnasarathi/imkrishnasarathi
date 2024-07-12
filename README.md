@@ -25,12 +25,6 @@ while (dev.isCoding()){
   - 📧 Reach me out at krishnasarathishem@gmail.com
 </details>
 
-## **Recent Activity**
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/imkrishnasarathi/PleasantWeb/issues/13#issuecomment-1998971371) in [imkrishnasarathi/PleasantWeb](https://github.com/imkrishnasarathi/PleasantWeb)
-<!--END_SECTION:activity-->
-
-
  ## **Tech Stack**
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;
@@ -48,12 +42,6 @@ while (dev.isCoding()){
 
 
 <rect width="100%" height="100%" fill="white" />
-
-## Latest Articles
-
-<!-- HASHNODE_BLOG:START -->
-
-<!-- HASHNODE_BLOG:END -->
 
 <div align='center'> 
   Feel free to reach me out at:
