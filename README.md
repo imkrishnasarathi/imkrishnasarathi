@@ -17,12 +17,10 @@ while (dev.isCoding()){
 
 
 
-<details>
-  - 🚀 I’m currently on a journey to get better at programming as well as build my career<br>
-  - :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
-  - 🤝 Open to connections!
-  - 📧 Reach me out at krishnasarathishem@gmail.com
-</details>
+- 🚀 I’m currently on a journey to get better at programming as well as build my career<br>
+- :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
+- 🤝 Open to connections!
+- 📧 Reach me out at krishnasarathishem@gmail.com
 
  ## **Tech Stack**
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
