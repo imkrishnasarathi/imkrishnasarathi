@@ -10,7 +10,7 @@ const name = "Krishna Sarathi Ghosh";
 const dev = newDeveloper(name);
 
 while (dev.isCoding()){
-  dev.dontlistenToMusic();
+  dev.listenToMusic();
   dev.drinkWater();
 }
 ```
