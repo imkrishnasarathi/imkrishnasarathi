@@ -51,9 +51,9 @@ while (dev.isCoding()){
 
 ## Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
 
+<!-- HASHNODE_BLOG:END -->
 
 <div align='center'> 
   Feel free to reach me out at:
