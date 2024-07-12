@@ -17,8 +17,10 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           USERNAME: "imkrishnasarathi" # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          COUNT: 5 # MAX Visible
           STYLE: "blog-left"
           BLOG_URL: "https://imkrishnasarathi.hashnode.dev/"
+          TYPE: "REPOSITORY"
+          FILE: "README.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
