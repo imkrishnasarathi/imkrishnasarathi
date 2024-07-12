@@ -18,7 +18,6 @@ while (dev.isCoding()){
 
 
 <details>
-  <summary>About Me</summary>
   - 🚀 I’m currently on a journey to get better at programming as well as build my career<br>
   - :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
   - 🤝 Open to connections!
