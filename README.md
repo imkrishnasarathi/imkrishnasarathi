@@ -17,9 +17,10 @@ while (dev.isCoding()){
 
 
 
-- 🚀 I’m currently on a journey to get better at programming as well as build my career<br>
+- 🚀 I’m currently on a journey to get better at programming and keep learning<br>
 - :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
 - 🤝 Open to connections!
+- 📽️ Creating content on YouTube
 - 🇮🇳 I'm based in West Bengal, India
 - 📧 Reach me out at krishnasarathishem@gmail.com
 
