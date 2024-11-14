@@ -17,13 +17,13 @@ while (dev.isCoding()){
 
 
 
-🚀 I’m currently on a journey to get better at programming and keep learning<br>
+🚀  I’m currently on a journey to get better at programming and keep learning<br>
 :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
-🤝 Open to connections!<br>
-📽️ Creating content on YouTube<br>
-🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)<br>
-🇮🇳 I'm based in West Bengal, India<br>
-📧 Reach out to me at krishnasarathishem@gmail.com<br>
+🤝  Open to connections!<br>
+📽️  Creating content on YouTube<br>
+🎙️  Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)<br>
+🇮🇳  I'm based in West Bengal, India<br>
+📧  Reach out to me at krishnasarathishem@gmail.com<br>
 
 ## **GitHub Stats**
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=tokyonight&show_icons=true)
