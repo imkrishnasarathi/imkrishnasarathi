@@ -24,7 +24,7 @@ while (dev.isCoding()){
 - 📧 Reach me out at krishnasarathishem@gmail.com
 
 ## **GitHub Stats**
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=transparent?icons=true)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=tokyonight&show_icons=true)
 
  ## **Tech Stack**
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
