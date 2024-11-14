@@ -22,7 +22,7 @@ while (dev.isCoding()){
 - 🤝 Open to connections!
 - 📽️ Creating content on YouTube
 - 🇮🇳 I'm based in West Bengal, India
-- 📧 Reach me out at krishnasarathishem@gmail.com
+- 📧 Reach out to me at krishnasarathishem@gmail.com
 
 ## **GitHub Stats**
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=tokyonight&show_icons=true)
