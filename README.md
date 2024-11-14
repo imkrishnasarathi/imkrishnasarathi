@@ -21,7 +21,7 @@ while (dev.isCoding()){
 - :octocat: You can view my projects <a href="https://github.com/imkrishnasarathi">here</a><br>
 - 🤝 Open to connections!
 - 📽️ Creating content on YouTube
-- 🎙️ Host of [The 404 Podcast](https://www.youtube.com/watch?v=nUFU7aXFdtk&list=PLA5-_C1q5nF0NKNIawzt3w7qy9hxd5IR6)
+- 🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)
 - 🇮🇳 I'm based in West Bengal, India
 - 📧 Reach out to me at krishnasarathishem@gmail.com
 
