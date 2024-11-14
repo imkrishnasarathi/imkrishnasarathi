@@ -23,6 +23,9 @@ while (dev.isCoding()){
 - 🇮🇳 I'm based in West Bengal, India
 - 📧 Reach me out at krishnasarathishem@gmail.com
 
+## **GitHub Stats**
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=tokyonight_icons=true)
+
  ## **Tech Stack**
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;
