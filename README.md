@@ -31,11 +31,13 @@ while (dev.isCoding()){
 
 📧 Reach out to me at krishnasarathishem@gmail.com
 
-## **GitHub Stats**
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=tokyonight&show_icons=true)
+# **📊 GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imkrishnasarathi&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- ## **Tech Stack**
- <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
+# **Tech Stack**
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&ensp;
