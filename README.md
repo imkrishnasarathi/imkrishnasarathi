@@ -23,13 +23,11 @@ while (dev.isCoding()){
 
 🤝 Open to connections!
 
-📽️ Check out my videos on [YouTube](https://youtube.com/@krishcodes), where I share awesome tech tutorials and info about stuff I learn!
+📽 Check out my videos on [YouTube](https://youtube.com/@krishcodes), where I share awesome tech tutorials and info about stuff I learn!
 
 🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)
 
 🇮🇳 I'm based in West Bengal, India
-
-📧 Reach out to me at krishnasarathishem@gmail.com
 
 # **📊 GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
