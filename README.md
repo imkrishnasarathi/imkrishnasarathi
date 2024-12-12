@@ -37,7 +37,8 @@ while (dev.isCoding()){
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![image](https://github.com/user-attachments/assets/91efd412-9d69-427b-ac6a-64ed8bf90c07)
-I am a [Pieces](https://badgr.com/public/assertions/Adf8q6OEQuKlvaxDFCkfkg) Certified Developer
+
+**I am a [Pieces](https://badgr.com/public/assertions/Adf8q6OEQuKlvaxDFCkfkg) Certified Developer**
 
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
