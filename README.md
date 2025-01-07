@@ -52,7 +52,7 @@ while (dev.isCoding()){
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>&ensp;
 
 
-<rect width="100%" height="100%" fill="white" />
+<rect width="40%" height="40%" fill="white" />
 
 <div align='center'> 
   Feel free to reach me out at:
