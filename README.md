@@ -37,12 +37,13 @@ while (dev.isCoding()){
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
+<br/><br/>
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/91efd412-9d69-427b-ac6a-64ed8bf90c07" width="200" height="200">
     <br/>
     <strong>I am a <a href="https://badgr.com/public/assertions/Adf8q6OEQuKlvaxDFCkfkg">Pieces</a> Certified Developer</strong>
 </div>
-
 
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
