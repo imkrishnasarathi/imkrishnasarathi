@@ -27,8 +27,6 @@ while (dev.isCoding()){
 
 🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)
 
-📰 Check my articles out at [Dev.to](https://dev.to/krishnasarathi)
-
 🇮🇳 I'm based in West Bengal, India
 
 # **📊 GitHub Stats**
