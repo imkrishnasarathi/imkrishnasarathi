@@ -43,6 +43,20 @@ while (dev.isCoding()){
     <strong>I am a <a href="https://badgr.com/public/assertions/Adf8q6OEQuKlvaxDFCkfkg">Pieces</a> Certified Developer</strong>
 </div>
 
+# Publications
+<div>
+  <a href="https://dev.to/krishnasarathi">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+  <a href="https://freecodecamp.org/news/author/imkrishnasarathi/">
+    <img src="https://img.shields.io/badge/freeCodeCamp-4C4C4C?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank" alt="freeCodeCamp">
+  </a>
+</div>
+
+You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
+I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
+
+
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;
