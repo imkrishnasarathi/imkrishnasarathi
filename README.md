@@ -58,6 +58,10 @@ while (dev.isCoding()){
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
 I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
 
+### Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
