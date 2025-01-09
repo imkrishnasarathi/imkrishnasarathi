@@ -62,6 +62,13 @@ I also delve into personal thoughts and research on AI, cloud computing, and oth
 
 ---
 
+# My Podcast
+
+I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3P?si=dbe0d5fe566748bd). Here's the recent episode:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/51YlbX6RvxjYNbMuaqWE3P/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 # My Latest Articles
 
 <div>
