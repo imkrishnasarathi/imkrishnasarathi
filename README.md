@@ -34,8 +34,6 @@ while (dev.isCoding()){
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imkrishnasarathi&theme=gruvbox)](https://git.io/streak-stats)
-
 [![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imkrishnasarathi&theme=react-dark)](https://github.com/imkrishnasarathi/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
