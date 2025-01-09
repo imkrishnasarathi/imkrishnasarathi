@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0261763a-2e46-48b9-8b61-05c61f08e355)<p>
+<p>
   <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1732354743/1500x500">
 </p>
 
