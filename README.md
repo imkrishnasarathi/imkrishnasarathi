@@ -34,6 +34,9 @@ while (dev.isCoding()){
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/><br/>
 
 <div align="center">
@@ -55,7 +58,6 @@ while (dev.isCoding()){
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
 I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
 
-[![Krishna Sarathi Ghosh profile views](https://u8views.com/api/v1/github/profiles/85837080/views/day-week-month-total-count.svg)](https://u8views.com/github/imkrishnasarathi)
 
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
@@ -81,6 +83,7 @@ I also delve into personal thoughts and research on AI, cloud computing, and oth
 </p>
 </div>
 
+[![Krishna Sarathi Ghosh profile views](https://u8views.com/api/v1/github/profiles/85837080/views/day-week-month-total-count.svg)](https://u8views.com/github/imkrishnasarathi)
 
 
 
