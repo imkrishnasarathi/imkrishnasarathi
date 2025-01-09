@@ -35,11 +35,6 @@ while (dev.isCoding()){
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br/><br/>
