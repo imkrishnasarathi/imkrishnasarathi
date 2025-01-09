@@ -60,6 +60,32 @@ while (dev.isCoding()){
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
 I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+  <!-- Blog Article Template -->
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/ target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png" alt="Article Image" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 16px;">
+        <h3 style="margin: 0 0 8px; font-size: 1.2em;">How to Run Open Source LLMs on Your Own Computer Using Ollama</h3>
+        <p style="margin: 0; color: #555; font-size: 0.9em;">A short description of your article or the opening lines...</p>
+      </div>
+    </a>
+  </div>
+
+  <!-- Duplicate and customize for additional articles -->
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="<YOUR_ARTICLE_LINK_2>" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="<YOUR_IMAGE_ADDRESS_2>" alt="Article Image" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 16px;">
+        <h3 style="margin: 0 0 8px; font-size: 1.2em;">Your Article Title 2</h3>
+        <p style="margin: 0; color: #555; font-size: 0.9em;">A short description of your article or the opening lines...</p>
+      </div>
+    </a>
+  </div>
+
+  <!-- Add more articles as needed -->
+</div>
+
 ### Thanks for taking the time to read this... Here's a joke for you:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
