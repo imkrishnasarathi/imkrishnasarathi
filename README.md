@@ -15,8 +15,6 @@ while (dev.isCoding()){
 }
 
 ```
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fimkrishnasarathi0072d.png?alt=media)
-
 
 ⚙️ Currently building my own Homelab!
 
