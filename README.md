@@ -1,4 +1,4 @@
-<p>
+![image](https://github.com/user-attachments/assets/0261763a-2e46-48b9-8b61-05c61f08e355)<p>
   <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1732354743/1500x500">
 </p>
 
@@ -60,31 +60,53 @@ while (dev.isCoding()){
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
 I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <!-- Blog Article Template -->
-  <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/ target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png" alt="Article Image" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 16px;">
-        <h3 style="margin: 0 0 8px; font-size: 1.2em;">How to Run Open Source LLMs on Your Own Computer Using Ollama</h3>
-        <p style="margin: 0; color: #555; font-size: 0.9em;">A short description of your article or the opening lines...</p>
-      </div>
+---
+
+# My Latest Articles
+
+<div>
+  <div align="center">
+    <a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png" alt="Article Image" width="300">
     </a>
+    <h3><a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/" target="_blank">How to Run Open Source LLMs on Your Own Computer Using Ollama</a></h3>
+    <p>AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure.</p>
   </div>
 
-  <!-- Duplicate and customize for additional articles -->
-  <div style="width: 300px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="<YOUR_ARTICLE_LINK_2>" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="<YOUR_IMAGE_ADDRESS_2>" alt="Article Image" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 16px;">
-        <h3 style="margin: 0 0 8px; font-size: 1.2em;">Your Article Title 2</h3>
-        <p style="margin: 0; color: #555; font-size: 0.9em;">A short description of your article or the opening lines...</p>
-      </div>
+  ---
+  
+  <div align="center">
+    <a href="https://dev.to/krishnasarathi/from-fears-to-achievements-my-tech-journey-and-the-lessons-learned-along-the-way-2mhi" target="_blank">
+      <img src="https://img.freepik.com/premium-vector/progress-man-walking-up-stairs-their-goal-motivation-path-target-s-achievement_70921-1811.jpg" alt="Article Image" width="300">
     </a>
+    <h3><a href="https://dev.to/krishnasarathi/from-fears-to-achievements-my-tech-journey-and-the-lessons-learned-along-the-way-2mhi" target="_blank">From Fears to Achievements: My Tech Journey and the Lessons Learned Along the Way</a></h3>
+    <p>How One Click Changed My Life: A Journey of Growth, Curiosity, and Connection</p>
   </div>
 
-  <!-- Add more articles as needed -->
+  ---
+
+  <div align="center">
+    <a href="https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk" target="_blank">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgbsj22505e9smoku8irh.jpeg" alt="Article Image" width="300">
+    </a>
+    <h3><a href="https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk" target="_blank">Understanding the difference between Static Site Generation (SSG) and Server Side Rendering (SSR)</a></h3>
+    <p>So SSR and SSG are basically two different types of approaches to rendering a page. Sounds pretty vague? Let me explain!</p>
+  </div>
+
+  ---
+
+  <div align="center">
+    <a href="https://dev.to/krishnasarathi/discover-witai-create-your-own-intelligent-bots-for-free-1g4j" target="_blank">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe14a38lxzj99egcmesn5.jpeg" alt="Article Image" width="300">
+    </a>
+    <h3><a href="https://dev.to/krishnasarathi/discover-witai-create-your-own-intelligent-bots-for-free-1g4j" target="_blank">Discover Wit.ai: Create Your Own Intelligent Bots for Free 🚀🤖</a></h3>
+    <p>An Awesome, Free NLP as a Service tool by Meta to integrate into your web apps! This post provides a quick skim over what I know about this awesome tool!</p>
+  </div>
+
+  ---
+
 </div>
+
 
 ### Thanks for taking the time to read this... Here's a joke for you:
 
