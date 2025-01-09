@@ -55,6 +55,7 @@ while (dev.isCoding()){
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
 I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
 
+[![Krishna Sarathi Ghosh profile views](https://u8views.com/api/v1/github/profiles/85837080/views/day-week-month-total-count.svg)](https://u8views.com/github/imkrishnasarathi)
 
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
