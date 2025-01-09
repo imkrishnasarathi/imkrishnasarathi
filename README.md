@@ -149,7 +149,6 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 </p>
 </div>
 
-[![Krishna Sarathi Ghosh profile views](https://u8views.com/api/v1/github/profiles/85837080/views/day-week-month-total-count.svg)](https://u8views.com/github/imkrishnasarathi)
 
 
 
