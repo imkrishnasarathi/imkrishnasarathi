@@ -37,6 +37,11 @@ while (dev.isCoding()){
 [![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imkrishnasarathi&theme=react-dark)](https://github.com/imkrishnasarathi/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br/><br/>
