@@ -93,7 +93,7 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 
   ---
   
-  <div align="center">
+  <div align="left">
     <a href="https://dev.to/krishnasarathi/from-fears-to-achievements-my-tech-journey-and-the-lessons-learned-along-the-way-2mhi" target="_blank">
       <img src="https://img.freepik.com/premium-vector/progress-man-walking-up-stairs-their-goal-motivation-path-target-s-achievement_70921-1811.jpg" alt="Article Image" width="300">
     </a>
