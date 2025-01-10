@@ -103,7 +103,7 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 
   ---
 
-  <div align="center">
+  <div align="left">
     <a href="https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk" target="_blank">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgbsj22505e9smoku8irh.jpeg" alt="Article Image" width="300">
     </a>
@@ -113,7 +113,7 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 
   ---
 
-  <div align="center">
+  <div align="left">
     <a href="https://dev.to/krishnasarathi/discover-witai-create-your-own-intelligent-bots-for-free-1g4j" target="_blank">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe14a38lxzj99egcmesn5.jpeg" alt="Article Image" width="300">
     </a>
