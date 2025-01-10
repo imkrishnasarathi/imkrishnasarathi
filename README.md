@@ -83,7 +83,7 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 # My Latest Articles
 
 <div>
-  <div align="center">
+  <div align="left">
     <a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/" target="_blank">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png" alt="Article Image" width="300">
     </a>
