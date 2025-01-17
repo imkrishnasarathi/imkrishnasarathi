@@ -7,7 +7,7 @@ Hey There 👋, I am **Krishna Sarathi Ghosh,** a 15-year-old high school studen
 
 ```js
 const name = "Krishna Sarathi Ghosh";
-const dev = newDeveloper(name);
+const dev = newDev(name);
 
 while (dev.isCoding()){
   dev.listenToMusic();
@@ -37,14 +37,6 @@ while (dev.isCoding()){
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 [![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imkrishnasarathi&theme=react-dark)](https://github.com/imkrishnasarathi/github-readme-activity-graph)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <br/><br/>
 
