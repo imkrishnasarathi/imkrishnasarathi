@@ -68,10 +68,10 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 [![Spotify Video]()](https://open.spotify.com/embed/show/51YlbX6RvxjYNbMuaqWE3P/video?utm_source=generator)
 <br>
 ### Episode 2
-[![Spotify Video](https://i9.ytimg.com/vi/Geb3634GFv8/mqdefault.jpg?v=66af21bd&sqp=CPzd_7sG&rs=AOn4CLDZra7woaRxAFDhxHBnsLEq63fezw)](https://open.spotify.com/episode/76QqvacBbK47cej2Y4CvmQ?si=Ihc5kWSJQHuloiP53uFjdQ)
+[![Spotify Video]()](https://open.spotify.com/episode/76QqvacBbK47cej2Y4CvmQ?si=Ihc5kWSJQHuloiP53uFjdQ)
 <br>
 ### Episode 1
-[![Spotify Video](https://i.ytimg.com/an_webp/nUFU7aXFdtk/mqdefault_6s.webp?du=3000&sqp=CI3L_7sG&rs=AOn4CLCji5j7BBc5CID1HUMKrGJY-wc0tA)](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
+[![Spotify Video]()](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
 <br>
 
 # My Latest Articles
