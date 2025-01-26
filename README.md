@@ -142,8 +142,10 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
   Feel free to reach me out at:
   <br>
   <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=codeskae"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:krishnasarathishem+githubprofile@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <a href="https://twitter.com/intent/follow?screen_name=codeskae"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/imkrishnasarathi/"><img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=codeskae"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 </div>
 
