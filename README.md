@@ -143,7 +143,9 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
   <br>
   <p align="center">
   
-  <a href="https://twitter.com/intent/follow?screen_name=codeskae"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=codeskae">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/imkrishnasarathi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
