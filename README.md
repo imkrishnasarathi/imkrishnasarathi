@@ -16,7 +16,7 @@ while (dev.isCoding()){
 
 ```
 
-⚙️ Currently building my own Homelab!
+⚙️ Building my own Homelab!
 
 🤖 Exploring the realm of AI and Mathematics
 
