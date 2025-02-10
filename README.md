@@ -26,7 +26,7 @@ while (dev.isCoding()){
 
 🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)
 
-🇮🇳 I'm based in West Bengal, India
+🇮🇳 I'm based in India
 
 # **📊 GitHub Stats**
 
