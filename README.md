@@ -61,13 +61,13 @@ I also delve into personal thoughts and research on AI, cloud computing, and oth
 
 I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3P?si=dbe0d5fe566748bd). Here's the recent episodes: <br><br>
 ### Episode 3 (Latest)
-[![Spotify Video]()](https://open.spotify.com/embed/show/51YlbX6RvxjYNbMuaqWE3P/video?utm_source=generator)
+[![404 Podcast Episode 3 with Richard Choi]()](https://open.spotify.com/embed/show/51YlbX6RvxjYNbMuaqWE3P/video?utm_source=generator)
 <br>
 ### Episode 2
-[![Spotify Video]()](https://open.spotify.com/episode/76QqvacBbK47cej2Y4CvmQ?si=Ihc5kWSJQHuloiP53uFjdQ)
+[![404 Podcast Episode 2 with Utba Zafar]()](https://open.spotify.com/episode/76QqvacBbK47cej2Y4CvmQ?si=Ihc5kWSJQHuloiP53uFjdQ)
 <br>
 ### Episode 1
-[![Spotify Video]()](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
+[![404 Podcast Episode 1 with Ellie Zubrowski]()](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
 <br>
 
 
