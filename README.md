@@ -34,8 +34,6 @@ while (dev.isCoding()){
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imkrishnasarathi&theme=react-dark)](https://github.com/imkrishnasarathi/github-readme-activity-graph)
-
 <br/><br/>
 
 <div align="center">
@@ -71,51 +69,6 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 ### Episode 1
 [![Spotify Video]()](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
 <br>
-
-# My Latest Articles
-
-<div>
-  <div align="left">
-    <a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/" target="_blank">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734681473969/20c1a1cd-898a-4f48-a26f-d2d3d2917efc.png" alt="Article Image" width="300">
-    </a>
-    <h3><a href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/" target="_blank">How to Run Open Source LLMs on Your Own Computer Using Ollama</a></h3>
-    <p>AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure.</p>
-  </div>
-
-  ---
-  
-  <div align="left">
-    <a href="https://dev.to/krishnasarathi/from-fears-to-achievements-my-tech-journey-and-the-lessons-learned-along-the-way-2mhi" target="_blank">
-      <img src="https://img.freepik.com/premium-vector/progress-man-walking-up-stairs-their-goal-motivation-path-target-s-achievement_70921-1811.jpg" alt="Article Image" width="300">
-    </a>
-    <h3><a href="https://dev.to/krishnasarathi/from-fears-to-achievements-my-tech-journey-and-the-lessons-learned-along-the-way-2mhi" target="_blank">From Fears to Achievements: My Tech Journey and the Lessons Learned Along the Way</a></h3>
-    <p>How One Click Changed My Life: A Journey of Growth, Curiosity, and Connection</p>
-  </div>
-
-  ---
-
-  <div align="left">
-    <a href="https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk" target="_blank">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgbsj22505e9smoku8irh.jpeg" alt="Article Image" width="300">
-    </a>
-    <h3><a href="https://dev.to/krishnasarathi/understanding-the-difference-between-static-site-generation-ssg-and-server-side-rendering-ssr-bbk" target="_blank">Understanding the difference between Static Site Generation (SSG) and Server Side Rendering (SSR)</a></h3>
-    <p>So SSR and SSG are basically two different types of approaches to rendering a page. Sounds pretty vague? Let me explain!</p>
-  </div>
-
-  ---
-
-  <div align="left">
-    <a href="https://dev.to/krishnasarathi/discover-witai-create-your-own-intelligent-bots-for-free-1g4j" target="_blank">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe14a38lxzj99egcmesn5.jpeg" alt="Article Image" width="300">
-    </a>
-    <h3><a href="https://dev.to/krishnasarathi/discover-witai-create-your-own-intelligent-bots-for-free-1g4j" target="_blank">Discover Wit.ai: Create Your Own Intelligent Bots for Free 🚀🤖</a></h3>
-    <p>An Awesome, Free NLP as a Service tool by Meta to integrate into your web apps! This post provides a quick skim over what I know about this awesome tool!</p>
-  </div>
-
-  ---
-
-</div>
 
 
 ### Thanks for taking the time to read this... Here's a joke for you:
