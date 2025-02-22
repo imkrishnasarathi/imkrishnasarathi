@@ -70,11 +70,6 @@ I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3
 [![404 Podcast Episode 1 with Ellie Zubrowski]()](https://open.spotify.com/episode/6l8BB8JV5SDBbofTJlTRab?si=GnPFcQufSXCPFPvRAy-S9w)
 <br>
 
-
-### Thanks for taking the time to read this... Here's a joke for you:
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 # **Tech Stack**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&ensp;
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&ensp;
