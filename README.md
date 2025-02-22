@@ -53,7 +53,7 @@ while (dev.isCoding()){
 </div>
 
 You can find my publications on Dev.to and freeCodeCamp, where I share all sorts of cool stuff about what I learn.
-I also delve into personal thoughts and research on AI, cloud computing, and other interesting topics.
+I also share about personal thoughts and research on AI, cloud computing, and other interesting topics.
 
 ---
 
