@@ -37,7 +37,7 @@ while (dev.isCoding()){
 <br/><br/>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/91efd412-9d69-427b-ac6a-64ed8bf90c07" width="200" height="200">
+    <img src="https://github.com/user-attachments/assets/91efd412-9d69-427b-ac6a-64ed8bf90c07" width="150" height="150">
     <br/>
     <strong>I am a <a href="https://badgr.com/public/assertions/Adf8q6OEQuKlvaxDFCkfkg">Pieces</a> Certified Developer</strong>
 </div>
