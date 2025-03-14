@@ -1,5 +1,5 @@
 <p>
-  <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1732354743/1500x500" height="100px>
+  <img src="https://pbs.twimg.com/profile_banners/1495009262070026242/1732354743/1500x500" height="500px">
 </p>
 
 Hey There 👋, I am **Krishna Sarathi Ghosh,** a 15-year-old high school student, and a Developer!
