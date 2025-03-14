@@ -28,14 +28,6 @@ while (dev.isCoding()){
 
 🇮🇳 I'm based in India
 
-# **📊 GitHub Stats**
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishnasarathi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
-<br/><br/>
-
 # Publications
 <div>
   <a href="https://dev.to/krishnasarathi">
