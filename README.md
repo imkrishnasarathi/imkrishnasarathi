@@ -26,8 +26,6 @@ while (dev.isCoding()){
 
 🎙️ Host of [The 404 Podcast](https://www.youtube.com/@krishcodes/podcasts)
 
-🇮🇳 I'm based in India
-
 # Publications
 <div>
   <a href="https://dev.to/krishnasarathi">
