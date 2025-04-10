@@ -41,7 +41,7 @@ I also share about personal thoughts and research on AI, cloud computing, and ot
 # My Podcast
 
 I host the [**404 Podcast**](https://open.spotify.com/show/51YlbX6RvxjYNbMuaqWE3P?si=dbe0d5fe566748bd).<br><br>
-![image](https://github.com/user-attachments/assets/c97bce50-16bf-45b6-acc0-df6f41aef2ab)
+<img src="https://github.com/user-attachments/assets/c97bce50-16bf-45b6-acc0-df6f41aef2ab" width="800">
 
 
 # **Tech Stack**
