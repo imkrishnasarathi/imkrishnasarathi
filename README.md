@@ -15,7 +15,7 @@ while (dev.isCoding()){
 
 ⚙️ Building my own Homelab!
 
-🤖 Exploring the realm of AI and Mathematics
+🤖 Exploring the realm of ML Engineering and Mathematics
 
 :octocat: View my projects <a href="https://github.com/imkrishnasarathi">here</a>
 
